@@ -1,4 +1,4 @@
-# Governança Social-Anarco Colaborativa
+# Democracia Direta Digital Descentralizada
 
 Essa forma de *governo*, idealizada por mim, baseia-se na educação como pilar principal da sociedade e na transparência do *governo*, utilizando-se de sistemas informatizados que auxiliem a população a venderem seus produtos e/ou serviços, além disso obviamente precismos de um sistema que gerenciará o **todo o orçamento do governo de forma transparente**.
 
